@@ -1,0 +1,6 @@
+.nbgrader.log
+gradebook.db
+release
+submitted
+autograded
+.DS_Store
